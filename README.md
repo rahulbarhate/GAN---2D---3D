@@ -1,2 +1,2 @@
-# GAN---2D---3D
+# GANs
 Repository for Senior Year Project
