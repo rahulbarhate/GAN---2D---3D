@@ -12,4 +12,4 @@ The Repository is organised as follows:
 2. ```Use Cases```: File that contains the use cases targeted.
 3. ```Modules```: All the individual functional modules of the project.
 
- ... Please make sure that all the modules are named after their functionalities and major changes are branced appropriately. 
+⋅⋅⋅Please make sure that all the modules are named after their functionalities and major changes are branced appropriately. 
