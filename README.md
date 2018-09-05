@@ -8,8 +8,7 @@ Follow [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 The Repository is organised as follows:
 
-### 1. ```Literature review```:
-Contains the list of papers referred as well as the document containing the survey.
+1. ```Literature review```: Contains the list of papers referred as well as the document containing the survey.
 2. ```Use Cases```: File that contains the use cases targeted.
 3. ```Modules```: All the individual functional modules of the project.
 
