@@ -7,7 +7,7 @@ Follow [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 Please make sure that all the modules are named after their functionalities and major changes are branced appropriately.
 
-The Repository is organised as follows:
+### The Repository is organised as follows:
 
 1. ```Literature Review```: Contains the list of papers referred as well as the document containing the survey.
 2. ```Use Cases```: File that contains the use cases targeted.
