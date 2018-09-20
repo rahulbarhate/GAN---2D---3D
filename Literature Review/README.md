@@ -19,4 +19,5 @@
 ## Some important links: -
 
 1. [Basic concepts of probability](https://towardsdatascience.com/probability-concepts-explained-introduction-a7c0316de465)
+2. [Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 
