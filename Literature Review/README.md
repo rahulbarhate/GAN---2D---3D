@@ -16,3 +16,7 @@
 
 
 
+## Some important links: -
+
+1. [Basic concepts of probability](https://towardsdatascience.com/probability-concepts-explained-introduction-a7c0316de465)
+
