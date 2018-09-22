@@ -25,3 +25,6 @@
 
 [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
 
+[GAN — GAN Series (from the beginning to the end)](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
+
+[List of papers on GANs](https://github.com/zhangqianhui/AdversarialNetsPapers)
