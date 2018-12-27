@@ -31,6 +31,7 @@
 2. [Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 
 
+[GANs, a modern perspective](https://medium.com/deep-dimension/gans-a-modern-perspective-83ed64b42f5c)
 
 [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
 
