@@ -23,7 +23,11 @@
 
 1. [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) - Alec Radford, Luke Metz, Soumith Chintala
 
+## Why GANs are better than other Generative models: -
 
+[Generative Adversarial Nets and Variational Autoencoders at ICML 2018](https://towardsdatascience.com/generative-adversarial-nets-and-variational-autoencoders-at-icml-2018-6878416ebf22)
+
+[What is the difference between Generative Adversarial Networks and Autoencoders?](https://www.quora.com/What-is-the-difference-between-Generative-Adversarial-Networks-and-Autoencoders)
 
 ## Some important links: -
 
