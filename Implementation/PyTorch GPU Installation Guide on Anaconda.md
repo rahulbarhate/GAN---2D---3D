@@ -16,3 +16,5 @@ conda install pytorch torchvision cudatoolkit=10.0 -c pytorch
 # test gpu install
 python -c 'import torch; print(torch.rand(2,3).cuda())'
 ```
+
+⋅⋅⋅ Refer the official documentation of [Pytorch](https://pytorch.org/).
