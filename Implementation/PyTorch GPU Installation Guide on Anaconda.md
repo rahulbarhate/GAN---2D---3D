@@ -1,4 +1,4 @@
-# Pytorch GPU install instructions    
+# Commands to install PyTorch GPU Version in Anaconda  
 
 ```bash
 # create conda env
